@@ -63,3 +63,7 @@ The script processes embedded base64 images in the Lottie JSON file:
 - Updates the Lottie JSON with new image data
 
 Feel free to modify the code to work with different input/output filenames or add additional image processing features!
+
+## 🙋‍♀ Author
+
+Created and maintained by [Chan Meng](https://github.com/ChanMeng666).
